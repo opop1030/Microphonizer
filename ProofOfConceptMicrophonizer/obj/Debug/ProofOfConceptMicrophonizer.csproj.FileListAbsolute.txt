@@ -1,0 +1,6 @@
+c:\users\jannis\documents\visual studio 2015\Projects\ProofOfConceptMicrophonizer\ProofOfConceptMicrophonizer\bin\Debug\ProofOfConceptMicrophonizer.exe.config
+c:\users\jannis\documents\visual studio 2015\Projects\ProofOfConceptMicrophonizer\ProofOfConceptMicrophonizer\bin\Debug\ProofOfConceptMicrophonizer.exe
+c:\users\jannis\documents\visual studio 2015\Projects\ProofOfConceptMicrophonizer\ProofOfConceptMicrophonizer\bin\Debug\ProofOfConceptMicrophonizer.pdb
+c:\users\jannis\documents\visual studio 2015\Projects\ProofOfConceptMicrophonizer\ProofOfConceptMicrophonizer\obj\Debug\ProofOfConceptMicrophonizer.csprojResolveAssemblyReference.cache
+c:\users\jannis\documents\visual studio 2015\Projects\ProofOfConceptMicrophonizer\ProofOfConceptMicrophonizer\obj\Debug\ProofOfConceptMicrophonizer.exe
+c:\users\jannis\documents\visual studio 2015\Projects\ProofOfConceptMicrophonizer\ProofOfConceptMicrophonizer\obj\Debug\ProofOfConceptMicrophonizer.pdb
