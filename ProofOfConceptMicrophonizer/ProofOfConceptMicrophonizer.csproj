@@ -45,7 +45,9 @@
   <ItemGroup>
     <Compile Include="Microphonizer.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProofOfConcept.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wave.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

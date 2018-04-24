@@ -9,11 +9,13 @@ namespace ProofOfConceptMicrophonizer
 {
     class Microphonizer
     {
+        public byte[] HeaderInformation;
         public byte[] Direct;
         public byte[] Mic;
 
         public Microphonizer(string PathToDirect, string PathToMic)
         {
+            Wave test = new Wave(PathToDirect);
             Direct = File.ReadAllBytes(PathToDirect);
             Mic = File.ReadAllBytes(PathToMic);
         }
@@ -28,6 +30,8 @@ namespace ProofOfConceptMicrophonizer
 
         //------------------------------------------------------------------------------------------------------------//
         //                                              Proof Of Concept                                              //
+
+        // 23.04.2018
         public List<IndexAndValue> CompareSignals()
         {
             List<IndexAndValue> Matches = new List<IndexAndValue>();
@@ -63,6 +67,9 @@ namespace ProofOfConceptMicrophonizer
         //                                              Proof Of Concept                                              //
         //------------------------------------------------------------------------------------------------------------//
     }
+
+
+
 
     class IndexAndValue
     {
